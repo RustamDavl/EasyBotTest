@@ -1,12 +1,8 @@
 package com.rustdv.computermagazine.controller;
 
-import com.rustdv.computermagazine.dto.createupdate.CreateUpdateHardDiskDriveDto;
 import com.rustdv.computermagazine.dto.createupdate.CreateUpdateLaptopDto;
-import com.rustdv.computermagazine.dto.read.ReadGoodsDto;
-import com.rustdv.computermagazine.dto.read.ReadHardDiskDriveDto;
 import com.rustdv.computermagazine.dto.read.ReadLaptopDto;
 import com.rustdv.computermagazine.facade.GoodsServiceFacade;
-import com.rustdv.computermagazine.facade.HardDiskDriveServiceFacade;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

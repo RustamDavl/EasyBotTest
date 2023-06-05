@@ -4,10 +4,7 @@ import com.rustdv.computermagazine.entity.embeddable.Diagonal;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
 import org.hibernate.Hibernate;
-
 import javax.persistence.*;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Objects;
 
 @SuperBuilder

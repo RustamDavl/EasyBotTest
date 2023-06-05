@@ -1,10 +1,7 @@
 package com.rustdv.computermagazine.controller;
 
 import com.rustdv.computermagazine.dto.createupdate.CreateUpdateComputerDto;
-import com.rustdv.computermagazine.dto.createupdate.CreateUpdateLaptopDto;
 import com.rustdv.computermagazine.dto.read.ReadComputerDto;
-import com.rustdv.computermagazine.dto.read.ReadLaptopDto;
-import com.rustdv.computermagazine.facade.ComputerServiceFacade;
 import com.rustdv.computermagazine.facade.GoodsServiceFacade;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

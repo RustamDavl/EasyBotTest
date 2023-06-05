@@ -6,7 +6,6 @@ import com.rustdv.computermagazine.entity.HardDiskDrive;
 import com.rustdv.computermagazine.mapper.CreateUpdateHardDiskDriveDtoMapper;
 import com.rustdv.computermagazine.mapper.ReadHardDiskDriveDtoMapper;
 import com.rustdv.computermagazine.service.GoodsService;
-import com.rustdv.computermagazine.service.HardDiskDriveService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 
