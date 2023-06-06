@@ -30,9 +30,9 @@ there are 4 types of goods:
 
 | Method | URL                   | Description                  |
 |--------|-----------------------|------------------------------|
-| get    | /api/v1/[typeOfGoods]/{id} | find one type of goods by id |
-| post   | /api/v1/[typeOfGoods] | create one type of goods     |
-| patch  | /api/v1/[typeOfGoods]/{id} | edit the goods by id         |
+| get    | /api/v1/[typeOfGoods]/{id} | find one product by type and id |
+| post   | /api/v1/[typeOfGoods] | create product with specified type     |
+| patch  | /api/v1/[typeOfGoods]/{id} | edit the product by id         |
 | get    | /api/v1/[typeOfGoods] | find all goods by type       |
 
 
